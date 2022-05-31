@@ -1,4 +1,8 @@
-#
+# 20220526 本週作業
+
+- 冒泡排序法（bubble-sort.cpp）
+- 選擇排序法（selection-sort.cpp）
+- [ZJ d518](https://zerojudge.tw/ShowProblem?problemid=d518)（d518.cpp）
 
 ---
 
