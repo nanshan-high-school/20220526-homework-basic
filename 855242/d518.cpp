@@ -10,7 +10,7 @@ int main() {
     for (int i = 0; i < times; i++) {
       cin >> word;
       if (maps[word] == 0) {
-        maps[word] = i + 1;
+        maps[word] = maps.size();
         cout << "New! " << maps[word] << endl;
       } else {
         cout << "Old! " << maps[word] << endl;
