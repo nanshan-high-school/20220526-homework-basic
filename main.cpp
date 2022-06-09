@@ -7,7 +7,7 @@ int main(){
   int c=1;
   int e,d,g;
   cin>>e;
-  for(int j=0;j<=e;j++){
+  for(int j=0;j<e;j++){
     cin>>a;
     if(j==0){
       cout<<"New! 1\n";
@@ -37,6 +37,5 @@ int main(){
     }
   }
 }
-
 
 
