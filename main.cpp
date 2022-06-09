@@ -23,7 +23,7 @@ int main(){
         }
       }
       if(g==0){
-        cout<<"Old";
+        cout<<"Old! ";
         cout<<d;
         cout<<"\n";
         d++;
